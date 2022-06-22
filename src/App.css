@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #264653;
+  width: 100vw;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
+span {
+  color: orange;
+  font-size: larger;
+}
+
+.container {
+  width: 30rem;
+}
